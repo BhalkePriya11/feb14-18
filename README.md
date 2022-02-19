@@ -1,12 +1,15 @@
 # feb14-18
 why do we need css?
+-> to style html
+-> to give layout
+-> cascadding style sheet
+
 3 ways of adding css?
+-> inline
+->internal
+->external
+
 css selectors
-# feb 15
-basic selectors
-pseudo selectors
-# feb 17
-display flex
-padding
-pseudo classes
-focus syntax
+-> basic selectors
+-> pseudo selectors
+
